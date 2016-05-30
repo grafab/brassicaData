@@ -12,3 +12,5 @@ Depends: R (>= 2.10)
 License: GPL-3
 LazyData: TRUE
 RoxygenNote: 5.0.1
+URL: http://github.com/grafab/brassicaData
+BugReports: https://github.com/grafab/brassicaData/issues
