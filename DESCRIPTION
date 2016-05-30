@@ -1,0 +1,14 @@
+Package: brassicaData
+Type: Package
+Title: Example Data of Brassica Napus for gsrc
+Version: 0.1
+Date: 2016-03-21
+Authors@R: c(
+    person("Fabian", "Grandke", email = "fabian.grandke@agrar.uni-giessen.de", role = c("cre", "aut")),
+    person("Birgit", "Samans", email = "birgit.samans@agrar.uni-giessen.de", role = "aut"))
+Description: This package provides raw and processed data from the Brassica60k
+    array. It contains 140 samples from a diversity set of Brassica napus.
+Depends: R (>= 2.10)
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
